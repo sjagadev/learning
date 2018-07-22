@@ -14,7 +14,7 @@
     </parent>
     <distributionManagement>
         <repository>
-        <id>nexus</admin>
+        <id>nexus</id>
         <url>http://localhost:8081/repository/maven-snapshots/</ur>
         </repository>
     </distributionManagement>
